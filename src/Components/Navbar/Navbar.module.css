@@ -1,0 +1,18 @@
+.Nav{
+    padding: 40px;
+    grid-area: n;
+    background-color: crimson;
+}
+
+.Item{
+    color: gold;
+}
+
+.Item a{
+    text-decoration: none;
+    color: white;
+}
+
+.Item a.active{
+    color: blue;
+}

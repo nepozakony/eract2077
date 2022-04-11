@@ -1,0 +1,10 @@
+.posts{
+    color: blueviolet;
+    background-color: blue;
+    border-radius: 18px;
+    margin-top: 10px;
+}
+
+.postList{
+    padding: 10px;
+}

@@ -1,0 +1,26 @@
+.page{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    background-color: fuchsia;
+}
+
+.chatList{
+    padding: 40px;
+}
+.chatWith{
+
+}
+
+.chatWith.active{
+    color: white;
+    font-size: 20px;
+}
+
+.dialog{
+    padding: 40px;
+background-color: chartreuse;
+}
+
+.message{
+
+}

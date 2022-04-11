@@ -1,0 +1,8 @@
+.AppHeader{
+    grid-area: h;
+    background-color: aqua;
+}
+
+.AppHeader img{
+    width: 40px;
+}
